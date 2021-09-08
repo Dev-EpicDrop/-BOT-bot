@@ -4,9 +4,9 @@
 改造して何かあっても責任は負いません
 # 起動の仕方
 PC
-.replitというファイルはいらないので消してください。左に🔒マークがあると思います。そこを押して、keyというところにTOKENと書いて下さい。次にvalueというところに自分のBOTのトークンを入れて下さい。最後にAdd new secretを押して下さい。
+.replitというファイルはいらないので消してください。左に🔒マークがあると思います。そこを押して、keyというところにTOKENと書いて下さい。次にvalueというところに自分のBOTのトークンを入れて下さい。最後にAdd new secretを押して下さい
 スマホ
-左下のCommandsを押してsecretsを押してください。次にkeyというところにTOKENと書き最後にAdd new secretを押して下さい。
+左下のCommandsを押してsecretsを押してください。次にkeyというところにTOKENと書きvalueに自分のBOTのトークンを入れて最後にAdd new secretを押して下さい
 # コマンド
 b.helpで見てください
 # サポートサーバー
